@@ -34,15 +34,15 @@ Users can enter medical parameters through a simple web interface and get instan
 
 🏠 Home Page
 
-"Home" (images/home.png)
+"Home" ("C:\Users\siddh\OneDrive\Documents\Desktop\images\imageshome.png")
 
 🧾 Input Section
 
-"Input" (images/input.png)
+"Input" ("C:\Users\siddh\OneDrive\Documents\Desktop\images\imageshome (2).png")
 
 📊 Prediction Result
 
-"Result" (images/result.png)
+"Result" ("C:\Users\siddh\OneDrive\Documents\Desktop\images\imageshome (3).png")
 
 ---
 
