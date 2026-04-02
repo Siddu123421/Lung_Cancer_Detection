@@ -38,7 +38,7 @@ Users can enter medical parameters through a simple web interface and get instan
 
 🧾 Input Section
 
-"Input" (
+"Input" (imageshome (2).png)
 
 📊 Prediction Result
 
