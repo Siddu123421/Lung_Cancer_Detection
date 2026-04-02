@@ -1,7 +1,7 @@
 🫁 Lung Cancer Detection Web App
 
 🔗 Live App: https:https://lungcancerdetection-2advpyehg3kqpj8hegusfp.streamlit.app/
-💻 GitHub Repo: https://github.com/your-username/Lung_Cancer_Detection
+💻 GitHub Repo: https://github.com/Siddu123421/Lung_Cancer_Detection.git
 
 ---
 
@@ -50,7 +50,7 @@ Users can enter medical parameters through a simple web interface and get instan
 
 1. Clone the repository:
 
-git clone https://github.com/your-username/Lung_Cancer_Detection.git
+git clone https://github.com/Siddu123421/Lung_Cancer_Detection.git
 
 2. Navigate to folder:
 
