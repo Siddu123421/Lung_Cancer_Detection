@@ -30,19 +30,16 @@ Users can enter medical parameters through a simple web interface and get instan
 
 ---
 
-📸 Screenshots
+## 📸 Screenshots
 
-🏠 Home Page
+### 🏠 Home Page
+![Home](imageshome.png)
 
-"Home" (imageshome.png)
+### 📥 Input Section
+![Input](imageshome(2).png)
 
-🧾 Input Section
-
-"Input" (imageshome (2).png)
-
-📊 Prediction Result
-
-"Result" (imageshome (3).png)
+### 📊 Prediction Result
+![Result](imageshome(3).png)
 
 ---
 
