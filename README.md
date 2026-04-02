@@ -42,7 +42,7 @@ Users can enter medical parameters through a simple web interface and get instan
 
 📊 Prediction Result
 
-"Result" ("C:\Users\siddh\OneDrive\Documents\Desktop\images\imageshome (3).png")
+"Result" (imageshome (3).png)
 
 ---
 
