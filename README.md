@@ -36,10 +36,10 @@ Users can enter medical parameters through a simple web interface and get instan
 ![Home](imageshome.png)
 
 ### 📥 Input Section
-![Input](imageshome(2).png)
+![Input](input.png)
 
 ### 📊 Prediction Result
-![Result](imageshome(3).png)
+![Result](result.png)
 
 ---
 
